@@ -12,12 +12,11 @@ In the next 30 days, I'll be building a comprehensive Flutter library guide app 
 ## Day 1: Getting Started with Flutter
 
 ### Tasks
-- 
+- UI for Login page 
 
 ### Resources
-- [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-- [Dart Installation Guide](https://dart.dev/get-dart)
-- [Flutter Documentation](https://flutter.dev/docs)
+- [Flutter UI Login ]([https://flutter.dev/docs/get-started/install](https://dribbble.com/shots/22553132-Mobile-Login-Page))
+
 
 ## Day 2: Understanding Widgets in Flutter
 
