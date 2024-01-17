@@ -2,9 +2,11 @@
 
 
 
-# 30 Days of Flutter Challenge
+# LibGuide App Development - 30-Day Progress
 
-Embarking on a 30 Days of Flutter Challenge! 🚀 Join me as I explore Flutter's intricacies, conquer coding tasks, and build exciting projects. Each day, I'll share my goals and progress. Let's learn and code together! 🌟 #FlutterChallenge #LearningFlutter
+## Overview
+In the next 30 days, I'll be building a comprehensive Flutter library guide app for Flutter Development . This log will document my daily progress, challenges, and key learnings. Additionally, I'll be relearning all Flutter essentials to ensure a solid foundation for the project.
+
 
 
 ## Day 1: Getting Started with Flutter
