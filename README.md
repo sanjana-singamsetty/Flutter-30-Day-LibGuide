@@ -15,7 +15,7 @@ In the next 30 days, I'll be building a comprehensive Flutter library guide app 
 - UI for Login page 
 
 ### Resources
-- [Flutter UI Login ]([https://flutter.dev/docs/get-started/install](https://dribbble.com/shots/22553132-Mobile-Login-Page))
+- [Flutter UI Login Page](https://dribbble.com/shots/22553132-Mobile-Login-Page)
 
 
 ## Day 2: Understanding Widgets in Flutter
