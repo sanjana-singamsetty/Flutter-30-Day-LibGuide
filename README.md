@@ -3,7 +3,7 @@
 
 
 
-# LibGuide App Development - 30-Day Progress
+# LibGuide App Development - Development In Progress
 
 ## Overview
 In the next 30 days, I'll be building a comprehensive Flutter library guide app for Flutter Development . This log will document my daily progress, challenges, and key learnings. Additionally, I'll be relearning all Flutter essentials to ensure a solid foundation for the project.
