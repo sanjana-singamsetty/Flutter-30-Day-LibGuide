@@ -1,59 +1,16 @@
-<<<<<<< HEAD
+# demo_guide
 
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-# LibGuide App Development - Development In Progress
+A few resources to get you started if this is your first Flutter project:
 
-## Overview
-In the next 30 days, I'll be building a comprehensive Flutter library guide app for Flutter Development . This log will document my daily progress, challenges, and key learnings. Additionally, I'll be relearning all Flutter essentials to ensure a solid foundation for the project.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-## Day 1: Getting Started with Flutter
-
-### Tasks
-- UI for Login page 
-
-### Resources
-- [Flutter UI Login Page](https://dribbble.com/shots/22553132-Mobile-Login-Page)
-
-
-## Day 2: Understanding Widgets in Flutter
-
-### Tasks
-- 
-
-### Resources
-- [Flutter Widgets Overview](https://flutter.dev/docs/development/ui/widgets)
-- [Stateless and Stateful Widgets](https://flutter.dev/docs/development/ui/interactive#state)
-- [Flutter Widget Catalog](https://flutter.dev/docs/development/ui/widgets)
-
-## Day 3: [Your Topic]
-
-### Tasks
-- [Task 1]
-- [Task 2]
-- [Task 3]
-
-### Resources
-- [Related Resource 1]
-- [Related Resource 2]
-- [Related Resource 3]
-
-...
-=======
-# login_app
-
-SignUp and Login using this app with its simple and stunning UI
-
-## Output
-
-<img src="assets/images/login.png" alt="login_app" align="center" height="780" width="360">
-
-### What i used
-
-packages: Material, Firebase auth, Loading overlay, rFlutter alert
-
-assets: images represeting the heading for each app page and one font to style the text
->>>>>>> a84a877 (first commit)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
